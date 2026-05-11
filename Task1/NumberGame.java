@@ -46,7 +46,7 @@ public class NumberGame {
         }
 
         System.out.println("\nFinal Score: " + totalScore);
-        System.out.println("Thanks for playing! Don't forget to upload the video on LinkedIn.");
+        System.out.println("Thanks for playing!");
         sc.close();
     }
 }
